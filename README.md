@@ -2,7 +2,10 @@
 
 Online version: https://brotli.aikidosec.com/
 
-Test clients for CVE-2026-111497. **May crash vulnerable clients.**
+Test clients for CVE-2026-111497.
+
+> [!WARNING]
+> May crash vulnerable clients.
 
 [Blog post](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 
